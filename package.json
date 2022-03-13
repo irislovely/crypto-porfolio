@@ -1,0 +1,13 @@
+{
+  "name": "crypto-porfolio",
+  "version": "1.0.0",
+  "description": "CLI utility to get portfolio data",
+  "main": "portfolio",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.26.1",
+    "commander": "^9.0.0"
+  }
+}
